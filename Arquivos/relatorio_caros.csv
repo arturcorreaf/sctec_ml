@@ -1,0 +1,4 @@
+id,produto,categoria,cidade,quantidade,preco,total
+3,Monitor,Vídeo,Florianópolis,2,900.0,1800.0
+4,Notebook,Computadores,Blumenau,1,3500.0,3500.0
+8,Notebook,Computadores,Joinville,2,3500.0,7000.0
