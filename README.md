@@ -6,9 +6,9 @@ Repositório pessoal destinado ao estudo, à prática e ao acompanhamento do cur
 
 ## 📂 Organização do Repositório
 
-Exercícios/ — Exercícios práticos organizados por semanas de estudo, de acordo com os conteúdos abordados no curso.
+- /Arquivos — Arquivos de dados nos formatos .csv e .json, utilizados nas atividades e práticas de programação.
 
-Arquivos/ — Arquivos de dados nos formatos .csv e .json, utilizados nas atividades e práticas de programação.
+- /Exercícios — Exercícios práticos organizados por semanas de estudo, de acordo com os conteúdos abordados no curso.
 
 ## 📅 Acompanhamento dos Estudos
 
@@ -16,15 +16,15 @@ O repositório será atualizado continuamente conforme o avanço das semanas de 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Python
+- Python
 
-Git e GitHub
+- Git e GitHub
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Outras ferramentas e bibliotecas abordadas ao longo do curso.
+- Outras ferramentas e bibliotecas abordadas ao longo do curso.
 
 ### 📌 Observação
 
