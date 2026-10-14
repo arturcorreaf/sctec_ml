@@ -6,6 +6,7 @@ print("\nColunas:\n", df.columns)
 print("\nTipos de dados: \n", df.dtypes)
 print("\nDescrição: \n",df.describe())
 print("\n################################\n")
+
 df["total"] = df["quantidade"] * df["preco"]
 caros = df.loc[df["total"] > 1000]
 print("\nVendas acima de R$ 1.000:\n\n",caros)

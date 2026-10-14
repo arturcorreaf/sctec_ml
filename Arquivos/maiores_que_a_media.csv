@@ -1,0 +1,3 @@
+id,produto,categoria,cidade,quantidade,preco,total
+4,Notebook,Computadores,Blumenau,1,3500.0,3500.0
+8,Notebook,Computadores,Joinville,2,3500.0,7000.0
