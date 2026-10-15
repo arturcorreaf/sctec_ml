@@ -14,3 +14,4 @@ print("\nMédia de notas: ",round(media,2))
 sujo[["nome", "telefone", "nota", "data_cadastro"]].to_csv("Arquivos/contatos_limpos.csv", index=False) # Exportando apenas os dados de vendas acima de 1000.
 print("\n--- Arquivo gravado com sucesso!---\n")
 
+# Linhas com o pandas 15, com o csv 26.
