@@ -1,5 +1,4 @@
 import pandas as pd 
-import numpy as np
 
 pedidos = pd.read_csv('arquivos/pedidos2.csv')
 
